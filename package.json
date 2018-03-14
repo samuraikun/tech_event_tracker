@@ -1,0 +1,22 @@
+{
+  "name": "tech_event_tracker",
+  "version": "1.0.0",
+  "description": "notify my interesting tech event",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samuraikun/tech_event_tracker.git"
+  },
+  "author": "samuraikun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuraikun/tech_event_tracker/issues"
+  },
+  "homepage": "https://github.com/samuraikun/tech_event_tracker#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
